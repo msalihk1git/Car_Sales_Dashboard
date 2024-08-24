@@ -24,6 +24,7 @@ YOY Growth in Cars Sold
 Difference between YTD Cars Sold and PTYD Cars Sold
 
 **Dashboard Features**
+
 YTD Sales Weekly Trend:
 
 A line chart illustrating the weekly trend of YTD sales.
@@ -39,17 +40,25 @@ A tabular grid showcasing the sales trend for each company.
 Detailed Sales Information:
 
 A detailed grid that presents all relevant information for each car sale including model, body style, color, sales amount, dealer region, and sale date.
+
 **Tools Used**
+
 Power BI: Used for creating the dynamic and interactive dashboard.
 Excel: For data processing and initial integration.
+
 **How to Use**
+
 Download the Power BI file (Car_Sales_Dashboard.pbix) from this repository.
 Open the file in Power BI Desktop.
 Explore the various charts and grids to gain insights into car sales performance.
+
 **Dataset**
+
 The dataset used in this project includes:
 
 Sales data by car model, body style, color, and dealer region.
 Date-wise sales information for detailed analysis.
+
 **Outcome**
+
 The Car Sales Dashboard provides actionable insights, allowing users to monitor sales trends, optimize inventory management, and identify opportunities for growth.
